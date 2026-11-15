@@ -1,0 +1,16 @@
+
+# Spotify credentials and authentication
+credentials.py
+.cache
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
