@@ -62,3 +62,17 @@ This project uses the Spotify Web API and requires user authorization.
 ## License
 
 No license has been specified yet.
+
+
+## Screenshots
+
+
+
+### Desktop Integration
+![Desktop Integration](screenshots/desktop-integration.png)
+
+### Main Widget
+![Desk-Spot Widget](screenshots/widget-preview.png)
+
+### Always-on-Top Functionality
+![Always on Top](screenshots/always-on-top.png)
